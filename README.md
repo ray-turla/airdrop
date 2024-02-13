@@ -1,5 +1,5 @@
 # CRON job Solana Airdrop
-The cron job below runs every 4 hours. By calculation, you get 4 airdrops a day therefore you get 20 test sol in a daily basis
+The cron job below runs every 4 hours. By calculation, you get 4-5 airdrops a day therefore you get 20-25 test sol in a daily basis
 # Crontab command 
 ```
 crontab -e
